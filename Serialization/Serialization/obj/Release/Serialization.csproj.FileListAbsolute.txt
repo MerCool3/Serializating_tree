@@ -1,0 +1,5 @@
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\Serialization\Serialization\bin\Release\Serialization.exe.config
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\Serialization\Serialization\bin\Release\Serialization.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\Serialization\Serialization\bin\Release\Serialization.pdb
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\Serialization\Serialization\obj\Release\Serialization.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\Serialization\Serialization\obj\Release\Serialization.pdb
